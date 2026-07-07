@@ -72,4 +72,4 @@ Ejercicio_Google_Quick_Draw-_TensorFlow_Playground/
 📚 **Contexto formativo o motivación del proyecto**
 Ejercicio 3.5 del bloque de Deep Learning del curso Análisis de Datos e IA (INAEM) por Miguel Jericó. Su motivación es ofrecer una introducción visual y accesible al reconocimiento de patrones y redes neuronales sin requerir conocimientos de programación.
 
-<p align="center">Desarrollado por @migueljerico · 2026</p>
+<p align="center">Desarrollado por @migueljerico y documentado por Tencent HY3 a través de la app Asistente de IA para Publicar Repositorios· 2026</p>
